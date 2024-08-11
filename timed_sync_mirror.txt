@@ -45,4 +45,6 @@ docker.io/apache/skywalking-ui
 docker.io/grafana/grafana
 docker.io/oliver006/redis_exporter
 docker.io/velero/velero
+docker.io/kubernetesui/dashboard
+docker.io/kubernetesui/metrics-scraper
 gcr.io/cadvisor/cadvisor
