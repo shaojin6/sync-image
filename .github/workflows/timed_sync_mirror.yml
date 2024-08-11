@@ -1,7 +1,8 @@
 name: Timed Sync Mirror
 on:
   schedule:
-  - cron: '0 0 8 1/2 * *' 
+  #- cron: '0 0 8 1/2 * *' 
+  - cron: '35 18 * * * *' 
   workflow_dispatch:
   
 jobs:
