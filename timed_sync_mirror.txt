@@ -15,6 +15,7 @@ docker.io/calico/node-driver-registrar
 docker.io/calico/pod2daemon-flexvol
 docker.io/calico/typha
 docker.io/zookeeper
+docker.io/apachepulsar/pulsar
 docker.io/apachepulsar/pulsar-all
 docker.io/nacos/nacos-server
 docker.io/library/redis
