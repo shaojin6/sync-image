@@ -32,6 +32,8 @@ docker.io/clickhouse/clickhouse-server
 docker.io/minio/operator
 docker.io/minio/console
 docker.io/minio/mc
+docker.io/minio
+docker.io/postgres
 docker.elastic.co/eck/eck-operator
 docker.elastic.co/elasticsearch/elasticsearch
 docker.elastic.co/kibana/kibana
