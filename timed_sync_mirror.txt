@@ -5,6 +5,7 @@ registry.k8s.io/kube-scheduler
 registry.k8s.io/kube-state-metrics/kube-state-metrics
 registry.k8s.io/kubectl
 registry.k8s.io/etcd
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner
 docker.io/coredns/coredns
 docker.io/calico/apiserver
 docker.io/calico/cni
