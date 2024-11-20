@@ -52,3 +52,4 @@ docker.io/velero/velero
 docker.io/kubernetesui/dashboard
 docker.io/kubernetesui/metrics-scraper
 gcr.io/cadvisor/cadvisor
+tchiotludo/akhq:0.25.1
