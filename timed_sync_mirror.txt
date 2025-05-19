@@ -56,3 +56,4 @@ gcr.io/cadvisor/cadvisor
 docker.io/tchiotludo/akhq:0.25.1
 docker.io/bitnami/kafka
 quay.io/kiwigrid/k8s-sidecar:1.25.2
+docker.io/curlimages/curl:7.85.0
